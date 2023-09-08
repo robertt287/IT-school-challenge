@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0fe000b4-0429-4cdb-b41f-841362575074" name="Changes" comment="main">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="0fe000b4-0429-4cdb-b41f-841362575074" name="Changes" comment="added addition conflict 2">
       <change beforePath="$PROJECT_DIR$/src/challenge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/challenge.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,14 +22,14 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="feature" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2V7GMoHom1OkS14m3MfcCLUwuo7" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -41,7 +40,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "feature"
+    "git-widget-placeholder": "conflicting-feature"
   }
 }]]></component>
   <component name="RunManager">
@@ -54,6 +53,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.challenge" />
+        <item itemvalue="Application.challenge" />
         <item itemvalue="Application.challenge" />
       </list>
     </recent_temporary>
@@ -75,11 +76,55 @@
       <option name="project" value="LOCAL" />
       <updated>1694179882936</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="added addition">
+      <option name="closed" value="true" />
+      <created>1694182181820</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1694182181820</updated>
+    </task>
+    <task id="LOCAL-00003" summary="added addition conflict">
+      <option name="closed" value="true" />
+      <created>1694182280766</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1694182280766</updated>
+    </task>
+    <task id="LOCAL-00004" summary="added addition conflict">
+      <option name="closed" value="true" />
+      <created>1694182315715</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1694182315715</updated>
+    </task>
+    <task id="LOCAL-00005" summary="added addition conflict 2">
+      <option name="closed" value="true" />
+      <created>1694182485992</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1694182485992</updated>
+    </task>
+    <task id="LOCAL-00006" summary="added addition conflict 2">
+      <option name="closed" value="true" />
+      <created>1694182882584</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1694182882584</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="main" />
-    <option name="LAST_COMMIT_MESSAGE" value="main" />
+    <MESSAGE value="added addition" />
+    <MESSAGE value="added addition confliction" />
+    <MESSAGE value="added addition conflict" />
+    <MESSAGE value="added addition conflict 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="added addition conflict 2" />
   </component>
 </project>
