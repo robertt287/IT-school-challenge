@@ -9,3 +9,4 @@ public class challenge {
         System.out.println(addition);
     }
 }
+
